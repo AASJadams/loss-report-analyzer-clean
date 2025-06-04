@@ -1,2 +1,6 @@
 streamlit
-PyMuPDF==1.23.20
+PyPDF2
+python-docx
+pandas
+openpyxl
+fitz  # PyMuPDF
