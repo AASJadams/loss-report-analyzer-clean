@@ -1,3 +1,4 @@
 streamlit
-PyMuPDF
+PyMuPDF==1.22.5
+
 
