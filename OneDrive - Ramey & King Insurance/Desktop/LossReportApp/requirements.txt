@@ -1,6 +1,6 @@
 streamlit
 PyPDF2
-python-docx
+python_docx
 pandas
 openpyxl
 pymupdf
